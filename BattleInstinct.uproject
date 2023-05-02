@@ -31,5 +31,9 @@
 			"Name": "CascadeToNiagaraConverter",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows",
+		"Mac"
 	]
 }
