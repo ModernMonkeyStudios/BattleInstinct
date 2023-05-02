@@ -5,6 +5,7 @@
 "../../../Engine/Content/EditorResources/S_BoxReflectionCapture.uexp" 4
 "../../../Engine/Content/EngineResources/DefaultTexture.ubulk" 5
 "../../../Engine/Content/EngineResources/DefaultTexture.uasset" 6
+"../../../Engine/Content/EngineResources/DefaultTexture.uexp" 7
 "../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 8
 "../../../Engine/Content/EngineResources/DefaultTextureCube.uexp" 9
 "../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 10
